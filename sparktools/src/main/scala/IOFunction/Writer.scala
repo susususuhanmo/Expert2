@@ -1,0 +1,5 @@
+package IOFunction
+
+object Writer {
+
+}
